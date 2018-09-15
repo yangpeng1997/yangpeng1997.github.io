@@ -1,6 +1,6 @@
 # Site settings
 title: NanBlog
-SEOTitle: Nanblog
+SEOTitle: NanBlog
 header-img: img/post-bg-desk.jpg
 email: 2595809239@qq.com
 description: "Every failure is leading towards success."
@@ -56,7 +56,7 @@ kramdown:
 
 
 # 评论系统
-  Disqus（https://disqus.com/）
+  Disqus:（https://disqus.com/）
   disqus_username: yangpeng1997
 
 # Gitalk
