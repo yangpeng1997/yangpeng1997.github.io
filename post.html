@@ -10,7 +10,7 @@
         repo: 'yangpeng1997.github.io',
         owner: 'yangpeng1997',
         admin: ['yangpeng1997'],
-        id:window.location.pathname,
+        id: decodeURI(window.location.pathname)
 
     });
     gitalk.render('gitalk-container');
