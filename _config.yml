@@ -60,14 +60,14 @@ disqus_username: yangpeng1997
 
 
 # Gital
-#gitalk:
-#  enable: true    #是否开启Gitalk评论
-#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#  repo: qiubaiying.github.io    #仓库名称
-#  owner: qiubaiyin
-#  admin: qiubaiying
-#  distractionFreeMode: true #是否启用类似FB的阴影遮
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 9fb8142c7de2e6f9b647                            #生成的clientID
+  clientSecret: 365d39c501aeffc5aee0d3f03c923fcef378fdbb    #生成的clientSecret
+  repo: yangpeng1997.github.io    #仓库名称
+  owner: yangpeng1997
+  admin: yangpeng1997
+  distractionFreeMode: true #是否启用类似FB的阴影遮
 
 
 # 统计
